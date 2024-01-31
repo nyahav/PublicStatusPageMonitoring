@@ -1,0 +1,13 @@
+{
+    "url": "https://status.auth0.com/feed?domain=cp-mis-prd.eu.auth0.com",
+    "name" : "Auto0",
+    "event_tag": "entry" ,
+    "time_tag": "time_tag" ,
+    "service_names" : ["User Authentication"] , 
+    "keywords":    
+    {
+        "maintenance" : "OK", 
+        "downtime" : "CRITICAL"
+    }
+    
+}

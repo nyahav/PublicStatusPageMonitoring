@@ -1,0 +1,27 @@
+- print xml html content. 
+- finish JSON implemination in the script. 
+-  tests. 
+- What to do if the statuspage is down ? 
+- Parse HTML content in the xml content tag and print the messege on the screen
+
+
+what to do next ? (22/08/2023)
+- Yahav  - make tests and inteprate HTML content 
+- Oz - finish JSON integration. 
+
+next status update? 
+ssa02
+192.168.141.224
+
+
+Icinga dummy host-NOC Status Checks (SSA)-intervals of 1min ## /usr/lib64/nagios/plugins/statuspage-feed.py --config-file="PATH"
+*According to AsafSM-first service to monitor is auto0
+
+
+EranRa-so this would look like this:change the url to the one given by 
+
+https://status.auth0.com/feed?domain=cp-mis-prd.eu.auth0.com
+
+https://status.auth0.com/feed?domain=cp-mis-stg.eu.auth0.com
+
+https://status.auth0.com/feed?domain=cp-mis-dev.eu.auth0.com

@@ -1,0 +1,12 @@
+{
+    "url": "https://status.checkpoint.com/history.atom",
+    "name" : "Checkpoint",
+    "event_tag": "entry" ,
+    "time_tag": "time_tag" ,
+    "service_names" : ["Infinity Portal"] , 
+    "keywords": {
+        "maintenance" : "OK", 
+        "downtime" : "CRITICAL"
+    }
+    
+}

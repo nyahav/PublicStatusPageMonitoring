@@ -1,0 +1,9 @@
+ * Atom feed is inaccesible or offline . 
+ * Incidents without description. --> Max severity 
+ * Keywords don't match. 
+ * Service name is not included in the title of the incident. 
+ * More than entry incoming in a short timespan.  
+    * Ask if icinga can manage it .
+    * determine a time for cooldown. 
+ * XML security holes. 
+

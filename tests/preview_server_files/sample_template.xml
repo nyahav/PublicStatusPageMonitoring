@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.auth0.com/</id>
+    <title>Auth0 Status - cp-mis-prd.eu.auth0.com</title>
+    <updated>2023-09-11T08:55:29.721Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Auth0</name>
+        <uri>https://auth0.com/</uri>
+    </author>
+    <link rel="alternate" href="https://status.auth0.com/"/>
+    <link rel="self" href="https://status.auth0.com/feed?domain=cp-mis-prd.eu.auth0.com"/>
+    <subtitle>Incident History</subtitle>
+    <logo>https://cdn.auth0.com/ulp/react-components/1.37.1/img/theme-generic/auth0-logo-black.svg</logo>
+    <icon>https://cdn.auth0.com/website/new-homepage/dark-favicon.png</icon>
+    <rights>2013-2022 Auth0Â® Inc. All Rights Reserved.</rights>
+    <entry>
+        <title type="html"><![CDATA[Errors creating support cases]]></title>
+        <id>d8h96slyl09v</id>
+        <link href="https://status.auth0.com/incidents/d8h96slyl09v"/>
+        <updated>2023-05-17T01:55:02.117Z</updated>
+        <content type="html"><![CDATA[<p><small>May 17, 1:55 UTC</small><br><strong>Resolved</strong> - This incident has been resolved.</p><p><small>May 17, 1:44 UTC</small><br><strong>Monitoring</strong> - A fix has been implemented, and we are monitoring the results.</p><p><small>May 17, 1:22 UTC</small><br><strong>Investigating</strong> - We are currently investigating an issue creating support cases with our Support Center. New support case submissions are failing while appearing to have been successfully created.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevated error rates across multiple services]]></title>
+        <id>yhtvs5vx5y7p</id>
+        <link href="https://status.auth0.com/incidents/yhtvs5vx5y7p"/>
+        <updated>2022-09-23T19:19:00.179Z</updated>
+        <content type="html"><![CDATA[<p><small>Sep 23, 19:18 UTC</small><br><strong>Postmortem</strong> - A root-cause analysis for this issue has been performed and is now available at [https://cdn.auth0.com/blog/20220915\_Increased\_Errors\_for\_Public\_and\_Private\_Cloud\_Customers.pdf](https://cdn.auth0.com/blog/20220915_Increased_Errors_for_Public_and_Private_Cloud_Customers.pdf).</p><p><small>Sep 15, 15:44 UTC</small><br><strong>Resolved</strong> - This issue has now been resolved, and service has been restored. We apologize for the impact this has had on you and your users.</p><p><small>Sep 15, 12:50 UTC</small><br><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep 15, 12:18 UTC</small><br><strong>Identified</strong> - An increase in error rates has been identified. We are continuing to investigate.</p><p><small>Sep 15, 11:34 UTC</small><br><strong>Monitoring</strong> - A fix has been implemented and we are monitoring the results.</p><p><small>Sep 15, 11:21 UTC</small><br><strong>Identified</strong> - We have identified a service disruption with our edge provider which is impacting our core authentication and Management API services. More information will be provided shortly.</p>]]></content>
+    </entry>
+</feed>

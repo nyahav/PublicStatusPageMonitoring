@@ -1,0 +1,13 @@
+{
+    "url": <url> ,
+    "name" : <service_mame> ,
+    "event_tag": <event_Tag> ,
+    "time_tag": <time_tag> ,
+    "service_names" : ["NAME 1","NAME 2" , ... ] , 
+    "keywords": {
+        <keyword> : <severity> ,
+        ...
+
+    }
+    "date_format" : <date_format>  
+}
